@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:09:11.253Z",
+  "generated_at": "2026-10-19T09:09:14.150Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -24,6 +24,32 @@
       "path": "problems/0004-calculate-mean-by-row-or-column",
       "first_solved_at": "2026-07-26T17:41:26.461Z",
       "last_pushed_at": "2026-07-26T17:41:26.461Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1217": {
+      "kind": "problem",
+      "id": "1217",
+      "title": "Compute TPR and FPR from Classifications",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1217",
+      "path": "problems/1217-compute-tpr-and-fpr-from-classifications",
+      "first_solved_at": "2026-07-27T17:30:52.876Z",
+      "last_pushed_at": "2026-07-27T17:30:52.876Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-07-27T17:46:36.737Z",
+      "last_pushed_at": "2026-07-27T17:46:36.737Z",
       "language": "python",
       "lines": 16
     }
