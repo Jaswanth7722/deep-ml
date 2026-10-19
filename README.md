@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-26 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-07-27 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
+| [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-10-19 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-26 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 
